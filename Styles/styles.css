@@ -239,5 +239,9 @@ html {
     border: none;
 }
 .btn-orange button:hover {
-    background-color: #c6892e;
+    background-color: #61d1b7;
+}
+
+.icon-color {
+    color: #51cdb6;
 }
