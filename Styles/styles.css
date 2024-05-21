@@ -249,3 +249,6 @@ html {
 .text-orange {
     color: rgb(201, 83, 4);
 }
+.bold-text {
+    font-weight: bold;
+}
